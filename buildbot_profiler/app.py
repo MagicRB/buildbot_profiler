@@ -1,7 +1,7 @@
+from __future__ import print_function
+
 import os
 import sys
-
-from __future__ import print_function
 
 from twisted.internet import reactor
 from twisted.python import log
